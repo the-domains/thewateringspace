@@ -1,0 +1,14 @@
+layout_spectrum: 0.5201114991214126
+typography_spectrum: 0.8688519392162561
+color:
+  brandStrength: 0.5213621160946786
+  lightness: 0.12626835238188505
+  saturation: 0.7280608369037509
+  rhythmicContrast: 0.9179732515476644
+  brandColors:
+    - '#1C1D21'
+    - '#31353D'
+    - '#445878'
+    - '#92CDCF'
+    - '#EEEFF7'
+name: TheWateringSpace
